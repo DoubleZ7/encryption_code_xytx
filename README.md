@@ -27,16 +27,16 @@
 通过演示编写的代码加密前、加密后在不同环境的运行情况展示代码保护的效果。
 
 ### Step 0: 正常代码运行
-![img_1.png](images/img_1.png)
+![img_1.png](img_1.png)
 ### Step 1: 代码加密
-![img_2.png](images/img_2.png)
+![img_2.png](img_2.png)
 ### Step 2: 加密代码在魔改环境运行
-![img_3.png](images/img_3.png)
+![img_3.png](img_3.png)
 ### Step 3: 加密代码在正常环境运行
-![img_4.png](images/img_4.png)
+![img_4.png](img_4.png)
 ### Step 4: 查看加密文件内容
-![img_5.png](images/img_5.png)
+![img_5.png](img_5.png)
 
 ## 答疑
 使用过程有任何疑问微信咨询  
-![](images/7.jpg)
+![](7.jpg)
